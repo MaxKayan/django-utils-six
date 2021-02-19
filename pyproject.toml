@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "django-utils-six"
+name = "django-utils-six-alias"
 version = "2.0"
 description = "Forward compatibility django.utils.six for Django 3"
 authors = ["Django Software Foundation <foundation@djangoproject.com>", "Wu Haotian <whtsky@gmail.com>"]
